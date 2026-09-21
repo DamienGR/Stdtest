@@ -132,8 +132,10 @@ Je suis ta recommandation.
 
 **Ce qu'il faut faire :** répondre « SECONDE », avec le statut `En cours`.
 
-**Statut :** Ouvert
+**Statut :** Fait — 2026-09-21 21:34
 **Réponse du dirigeant :**
+
+Ok
 
 ### 2026-09-22 13:00 — [QUESTION] Entrée déjà répondue : elle ne doit plus être proposée — Urgent
 
