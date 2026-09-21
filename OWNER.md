@@ -34,8 +34,10 @@ _Historique intégral des échanges : `archives/OWNER-2026-T3.md`._
 
 **Ma recommandation :** envoyez les deux dans la même demi-journée, on saura vendredi si l'approche tient.
 
-**Statut :** Ouvert
+**Statut :** Abandonné — 2026-09-21 21:32
 **Réponse du dirigeant :**
+
+Nul
 
 ### 2026-09-22 08:00 — [ACTION] Rappeler la mairie de Cajarc avant midi — Urgent
 
