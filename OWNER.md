@@ -43,8 +43,10 @@ _Historique intégral des échanges : `archives/OWNER-2026-T3.md`._
 
 **Ce que je propose de leur dire :** livraison le 15 octobre, recette la semaine suivante.
 
-**Statut :** Ouvert
+**Statut :** Fait — 2026-09-21 20:30
 **Réponse du dirigeant :**
+
+Tesr
 
 ### 2026-09-22 09:15 — [QUESTION] Le devis Delprat bloque sur le prix : on baisse, ou on réduit le périmètre ? — Bloquant
 
@@ -70,8 +72,12 @@ _Historique intégral des échanges : `archives/OWNER-2026-T3.md`._
 
 **Ma recommandation :** réduire le périmètre plutôt que le prix. On retire la partie « espace presse » (voir `grille-de-chiffrage.md`), on tombe à 3 400 €, et le TJM est intact. Baisser le prix à périmètre égal, c'est dire que la grille est négociable.
 
-**Statut :** Ouvert
+**Statut :** Répondu — 2026-09-21 20:30
 **Réponse du dirigeant :**
+
+Testvv
+
+Je suis ta recommandation.
 
 ### 2026-09-22 10:00 — [QUESTION] Un titre qui contient — un cadratin et « des guillemets » : jusqu'où on va ?
 
